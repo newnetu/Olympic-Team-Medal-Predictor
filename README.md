@@ -29,9 +29,6 @@ In version 1 of the model:
 
 ## Performance Metric
 **Mean Absolute Error (MAE):**
-\[
-\text{MAE} = \frac{1}{n} \sum_{i=1}^{n} |y_i - \hat{y}_i|
-\]
 - **Explanation**: Measures the average absolute difference between predicted and actual medal counts.
 - **Interpretation**: A lower MAE indicates better model performance.
 
